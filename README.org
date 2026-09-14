@@ -1,0 +1,6 @@
+* Sort with zig
+
+** cheatsheet
+#+begin_src bash
+zig build run < sweet.org
+#+end_src
